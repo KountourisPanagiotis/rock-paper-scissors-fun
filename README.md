@@ -4,7 +4,7 @@
 A [Coding Factory](https://codingfactory.aueb.gr/) @ [AUEB](https://aueb.gr/) Python Project. Chapter 4. Advanced Python.
 
 ## Project info
-- Simple fun project Rock-Paper-Scissors against computer
+- Simple fun project Rock-Paper-Scissors against computer :rock: - :page_facing_up: - :scissors:
 
 ## Installation
 To install and run the project, follow these steps:
